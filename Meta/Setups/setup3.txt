@@ -1,0 +1,24 @@
+3
+
+EMPTY
+
+Starry None
+Starry Extending
+Starry Stylized
+
+MIDDLE
+
+ForestS2 Stylized
+WinterS2 Extending
+WinterS1 None
+
+ForestR1 None
+SeaS1 Stylized
+SeaS2 Extending
+
+ForestR2 Extending
+SeaR2 None
+WinterR2 Stylized
+
+END
+

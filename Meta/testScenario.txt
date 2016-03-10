@@ -1,0 +1,33 @@
+One test participant and two interviewers per session. 
+One interviewer writes, while the other talks.
+
+- consent form
+- questionnaire 1
+	- general information
+	- previous VR experience
+	- general museum interest
+	- general art interest
+	- previous VR museum experience
+- pre-hallway to setup headset
+- tutorial
+	- tutorial instructions (spoken)
+		none -> stylized -> extending
+		none -> extending -> stylized
+- emty hallway, take off headset
+- informal interview 1
+	- opinion on the illusions
+	- general (VR) museum interest
+- real test
+	- explore instructions
+- questionnaire 2 and informal interview 2.1
+	- panas on paper about the styles
+	- informal interview on results of panas
+- informal interview 2.2
+	- opinion on the illusions
+	- general (VR) museum interest
+	- general art interest
+- questionnaire 3 & 4
+	- enjoyment (likert scale)
+	- memory test
+
+		
